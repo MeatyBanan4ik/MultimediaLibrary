@@ -1,0 +1,17 @@
+
+
+header {
+	background-color: #282832;
+}
+
+body {
+	background-color: black;
+	color: white;
+}
+
+.alertclose:click {
+	visibility:hidden;
+}
+
+
+
